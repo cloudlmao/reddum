@@ -17,7 +17,7 @@
 
 | Control | Action |
 |---------|--------|
-| `1`, `2`, `3` | Select tower type |
+| `1`, `2`, `3`, `4`, `5`, `6` | Select tower type |
 | `Left Click` | Place tower |
 | `Right Click` | Deselect tower |
 | `Space` | Start next wave |
